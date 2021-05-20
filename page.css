@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-bg {
+    background-color: #03174c;
+    height: 100vh;
+
+}
+
+.container-header {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+
+    height: 40vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+
+.header-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.para-content {
+    color: #ffffff;
+    font-family: "Bree Serif";
+
+
+    font-size: 14px;
+}
+
+.container-footer {
+    padding: 30px;
+}
+
+.container-footer-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    margin: 8px;
+    height: 22vh;
+}
+
+.footer-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+
+    font-size: 32px;
+}
+
+.button {
+    border-radius: 30px;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    font-family: "Bree Serif";
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    background-color: #8e97fd;
+    border-width: 0px;
+
+}
+
+.page-bg-music {
+    background-color: #03174c;
+}
+
+.music-header-image {
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+
+.music-footer {
+    padding: 20px;
+    color: #ffffff;
+}
+
+.music-header {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 26px;
+}
+
+.music-para {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.music-time {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.sub-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 21px;
+}
+
+.music-albums {
+    margin-right: 10px;
+}
+
+.music-album-item-image {
+    margin-top: 8px;
+    width: 40vw;
+    margin-right: 10px;
+}
+
+.music-album-item-image-discription {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    text-align: center;
+}
+
+.music-album-item-image-time {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
